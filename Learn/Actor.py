@@ -1,7 +1,7 @@
 from ai.myAgent import Agent
 
-# from smac.env import StarCraft2Env
-from smac_hard.env import StarCraft2Env
+from smac.env import StarCraft2Env
+# from smac_hard.env import StarCraft2Env
 from lib.hyper_parameters import hyper_parameters as HP
 
 
